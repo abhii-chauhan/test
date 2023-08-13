@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abhinav Chauhan
-Skills: HTML, CSS, JS, Next.js, git, jQuery, Tailwind, Python, 
-Email: abhinavchauhan708212@gmail.com
-{{/user}}
